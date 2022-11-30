@@ -1,8 +1,8 @@
 {
-    "token": "token_here",
-    "admin_list": [0],
+    "token": "5830591415:AAHX5hCeGAv_RTBQ2IqlVpV1sgqrFokofDU",
+    "admin_list": [5779090787],
     "open_lobby": true,
-    "enable_translations": false,
+    "enable_translations": true,
     "workers": 32,
     "default_gamemode": "fast",
     "waiting_time": 120,
